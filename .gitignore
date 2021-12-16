@@ -1,0 +1,6 @@
+img_cap/models/
+img_cap/utils/
+img_cap/train/
+known_faces/
+img_cap/models/289999.npy
+img_cap/utils/coco/pycocoevalcap/meteor/data/paraphrase-en.gz

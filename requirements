@@ -1,0 +1,5 @@
+sudo apt-get install cmake
+pip install face_recognition
+pip install pyaudio
+pip install pocketsphinx
+pip install SpeechRecognition
